@@ -1,0 +1,14 @@
+streamlit
+langgraph
+langchain
+langchain-groq
+sqlalchemy
+pandas
+pydantic2
+python-dotenv
+pytest
+pytest-cov
+pytest-mock
+pytest-asyncio
+plotly
+pydantic-settings
